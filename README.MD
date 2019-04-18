@@ -8,3 +8,18 @@
 
 # REPOSITORY
 -Where all our snapshots are stored.
+
+#GIT Branches
+
+-LISTING ALL BRANCHES
+git branch
+
+-ADDING A BRANCH
+git checkout -b NAMEOFBRANCH
+
+-CHANGING BRANCHES
+git checkout NAMEOFBRANCH
+
+-MERGING A BRANCH
+
+-REMOVING A BRANCH
